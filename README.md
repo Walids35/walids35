@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on hacking techniques
+- 🌱 I’m currently learning cloud computing & networking
+- 🤔 I’m looking for help with network concepts
+- ⚡ Fun fact: I will be the best developer in the world
