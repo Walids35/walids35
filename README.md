@@ -15,7 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on hacking techniques
-- 🌱 I’m currently learning cloud computing & networking
-- 🤔 I’m looking for help with network concepts
-- ⚡ Fun fact: I will be the best developer in the world
+As a software engineer with a passion for continual learning and growth, I am always looking for new challenges and opportunities to improve my programming skills. My experience includes developing and maintaining various applications using technologies like Java, Python, and JavaScript. On my GitHub profile, you will find a variety of projects that demonstrate my abilities as a developer, from simple scripts to more complex applications. I am always open to collaborating and contributing to open-source projects, so feel free to reach out!
