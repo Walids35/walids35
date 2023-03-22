@@ -1,8 +1,5 @@
 ### Hello World, I'm Walid  👋
 
- <img align="right" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="500" height="320" />
-
-
 ## I'm a Student, Developer, Creator, and Mentor!!
 - ✍ You can find my projects here [portfolio]
 - 🔭 I’m currently working on Augmented Reality Navigation App.
@@ -11,6 +8,7 @@
 - 💬 Ask me about ... Anything
 - ⚡ Fun fact: I speak 4 languages ( English, Arabic, French, Spanish)
 
+As a software engineer with a passion for continual learning and growth, I am always looking for new challenges and opportunities to improve my programming skills. My experience includes developing and maintaining various applications using technologies like Java, Python, and JavaScript. On my GitHub profile, you will find a variety of projects that demonstrate my abilities as a developer, from simple scripts to more complex applications. I am always open to collaborating and contributing to open-source projects, so feel free to reach out!
 
 ### Talk with me, I am kinda awesome:
 [<img align="left" alt="holisitc_developer | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
@@ -40,14 +38,14 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="Anna's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=arsentieva&show_icons=true&hide_border=true" />
+  <img align="left" alt="Anna's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Walids35&show_icons=true&hide_border=true" />
 
 </details>
 
 <details>
   <summary>:zap: Most Used Languages</summary>
 
-<img align="left" alt="Anna's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arsentieva" />
+<img align="left" alt="Anna's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Walids35" />
 
 </details>
 
@@ -56,4 +54,4 @@
 [instagram]: https://www.instagram.com/holistic_developer/
 [linkedin]: https://linkedin.com/in/annaarsentieva
 [portfolio]: https://arsentieva.github.io/profile/
-As a software engineer with a passion for continual learning and growth, I am always looking for new challenges and opportunities to improve my programming skills. My experience includes developing and maintaining various applications using technologies like Java, Python, and JavaScript. On my GitHub profile, you will find a variety of projects that demonstrate my abilities as a developer, from simple scripts to more complex applications. I am always open to collaborating and contributing to open-source projects, so feel free to reach out!
+
