@@ -1,12 +1,6 @@
-### Hello World, I'm Walid  👋
+### Hi, I'm Walid  👋
 
-## I'm a Student, Developer, Creator, and Mentor!!
-- ✍ You can find my projects here [portfolio]
-- 🔭 I’m currently working on Augmented Reality Navigation App.
-- 🌱 I’m currently learning Kotlin and Android Studio
-- 👯 I’m looking to collaborate on open source
-- 💬 Ask me about ... Anything
-- ⚡ Fun fact: I speak 4 languages ( English, Arabic, French, Spanish)
+## I'm a Junior Software Developer !
 
 As a software engineer with a passion for continual learning and growth, I am always looking for new challenges and opportunities to improve my programming skills. My experience includes developing and maintaining various applications using technologies like Java, Python, and JavaScript. On my GitHub profile, you will find a variety of projects that demonstrate my abilities as a developer, from simple scripts to more complex applications. I am always open to collaborating and contributing to open-source projects, so feel free to reach out!
 
