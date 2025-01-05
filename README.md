@@ -18,7 +18,8 @@
 ![Walids35's GitHub stats](https://github-readme-stats.vercel.app/api?username=Walids35&theme=radical)
 
 # Vibing to
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=312fkpbqzcyv7ruipkr6wfcd5pke&cover_image=false&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+
+[![spotify-github-profile](https://spotify-github profile.kittinanx.com/api/viewuid=312fkpbqzcyv7ruipkr6wfcd5pke&cover_image=false&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
 [linkedin]: https://www.linkedin.com/in/walid-siala-958a41201/
 
