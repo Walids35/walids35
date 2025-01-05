@@ -3,7 +3,7 @@
 - Currently a final year software engineer student passionate about fullstack, DevOps & Cloud.
 - Pretty solid on AWS and CI/CD pipelines for work & Web Freelancer with NextJS.
 - Always testing and discovering new technologies.
-- My portfolio includes well-designed websites, Software Architecture with AWS and some fun personal projects...
+- My portfolio includes well-designed websites, software architecture with AWS and some fun personal projects...
 
 ### Talk with me, I am kinda awesome:
 [<a>Linkedin</a>][linkedin]
@@ -16,7 +16,7 @@
 
 <br />
 <br />
-[![Walids35's GitHub stats](https://github-readme-stats.vercel.app/api?username=Walids35)](https://github.com/anuraghazra/github-readme-stats)
+![Walids35's GitHub stats](https://github-readme-stats.vercel.app/api?username=Walids35)
 
 [linkedin]: https://www.linkedin.com/in/walid-siala-958a41201/
 
