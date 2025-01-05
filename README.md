@@ -19,7 +19,7 @@
 
 # Vibing to
 
-[![spotify-github-profile](https://spotify-github profile.kittinanx.com/api/viewuid=312fkpbqzcyv7ruipkr6wfcd5pke&cover_image=false&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+![](https://spotify-github-profile.kittinanx.com/api/view?uid=312fkpbqzcyv7ruipkr6wfcd5pke&cover_image=false&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)
 
 [linkedin]: https://www.linkedin.com/in/walid-siala-958a41201/
 
