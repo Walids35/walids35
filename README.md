@@ -6,7 +6,7 @@
 - My portfolio includes well-designed websites, software architecture with AWS and some fun personal projects...
 
 ### Talk with me, I am kinda awesome:
-[<a>Linkedin</a>][linkedin]
+- [<a href="https://www.linkedin.com/in/walid-siala-958a41201/">Linkedin</a>]
 
 <br />
 
