@@ -16,7 +16,8 @@
 
 <br />
 <br />
-![Walids35's GitHub stats](https://github-readme-stats.vercel.app/api?username=Walids35)
+
+![Walids35's GitHub stats](https://github-readme-stats.vercel.app/api?username=Walids35&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 
 [linkedin]: https://www.linkedin.com/in/walid-siala-958a41201/
 
