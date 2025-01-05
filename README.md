@@ -1,11 +1,12 @@
 ### Hi, I'm Walid  👋
 
-## I'm a Junior Software Developer !
-
-As a software engineer with a passion for continual learning and growth, I am always looking for new challenges and opportunities to improve my programming skills. My experience includes developing and maintaining various applications using technologies like Java, Python, and JavaScript. On my GitHub profile, you will find a variety of projects that demonstrate my abilities as a developer, from simple scripts to more complex applications. I am always open to collaborating and contributing to open-source projects, so feel free to reach out!
+- Currently a final year software engineer student passionate about fullstack, DevOps & Cloud.
+- Pretty solid on AWS and CI/CD pipelines for work & Web Freelancer with NextJS.
+- Always testing and discovering new technologies.
+- My portfolio includes well-designed websites, Software Architecture with AWS and some fun personal projects...
 
 ### Talk with me, I am kinda awesome:
-[<img align="left" alt="holisitc_developer | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<a>Linkedin</a>][linkedin]
 
 <br />
 
@@ -15,21 +16,7 @@ As a software engineer with a passion for continual learning and growth, I am al
 
 <br />
 <br />
----
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="Anna's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Walids35&show_icons=true&hide_border=true" />
-
-</details>
-
-<details>
-  <summary>:zap: Most Used Languages</summary>
-
-<img align="left" alt="Anna's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Walids35" />
-
-</details>
+[![Walids35's GitHub stats](https://github-readme-stats.vercel.app/api?username=Walids35)](https://github.com/anuraghazra/github-readme-stats)
 
 [linkedin]: https://www.linkedin.com/in/walid-siala-958a41201/
 
