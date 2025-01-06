@@ -9,8 +9,10 @@
 ### Talk with me, I am kinda awesome:
 - <a href="https://www.linkedin.com/in/walid-siala-958a41201/">Linkedin</a>
 
-### Weekly Stats
-![Walids35's GitHub stats](https://github-readme-stats.vercel.app/api?username=Walids35&theme=radical)
+### Stats
+
+![Walids35's GitHub stats](https://github-readme-stats.vercel.app/api?username=Walids35&theme=radical)    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=walids35&layout=compact&theme=radical)
+
 
 ### Vibing to
 
