@@ -1,8 +1,6 @@
 ### Hi, I'm Walid  👋
 
-- Currently a final year software engineer student passionate about fullstack, DevOps & Cloud.
 - Pretty solid on AWS and CI/CD pipelines for work & Web Freelancer with NextJS.
-- Always testing and discovering new technologies.
 - My portfolio includes well-designed websites, software architecture with AWS and some fun personal projects...
 - Open-source contributor 
 
