@@ -1,6 +1,5 @@
 ### Hi, I'm Walid  👋
 
-- Pretty solid on AWS and CI/CD pipelines for work & Web Freelancer with NextJS.
 - My portfolio includes well-designed websites, software architecture with AWS and some fun personal projects...
 - Open-source contributor 
 
